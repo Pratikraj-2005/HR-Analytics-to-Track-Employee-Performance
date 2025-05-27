@@ -1,0 +1,1001 @@
+EmployeeID,Age,Gender,Department,JobLevel,YearsAtCompany,MonthlyIncome,PerformanceRating,TrainingTimesLastYear,OverTime,WorkLifeBalance,JobSatisfaction,Attrition
+1,59,Female,Finance,2,28,17616,3,1,No,4,1,No
+2,49,Male,Marketing,4,4,7933,5,4,No,3,2,No
+3,35,Male,Marketing,3,9,7926,3,7,No,1,2,No
+4,28,Male,HR,3,27,6969,3,2,Yes,4,3,No
+5,41,Male,Engineering,3,20,5965,3,5,No,4,1,No
+6,59,Male,IT,3,6,7319,4,3,No,2,3,No
+7,39,Female,Finance,1,2,11975,3,6,Yes,4,3,No
+8,43,Male,Finance,1,19,10108,4,9,No,1,1,No
+9,31,Female,Customer Support,5,18,12141,4,2,No,2,2,No
+10,31,Male,Marketing,2,34,19428,3,5,No,4,3,No
+11,44,Female,Engineering,4,3,4810,3,9,Yes,2,1,No
+12,56,Female,HR,4,4,13273,4,8,Yes,4,2,No
+13,44,Male,Engineering,1,0,12021,3,9,No,3,3,No
+14,23,Female,Customer Support,4,3,9364,4,0,Yes,3,3,No
+15,42,Male,Sales,1,11,5581,4,2,No,1,3,No
+16,22,Other,Engineering,5,26,3691,3,1,No,3,2,No
+17,44,Male,Customer Support,2,22,3931,4,7,Yes,3,3,No
+18,50,Male,Sales,5,24,16128,4,6,No,3,2,Yes
+19,58,Male,Sales,3,20,17226,4,1,No,4,4,No
+20,22,Other,HR,3,23,16861,3,5,Yes,4,3,No
+21,41,Female,IT,3,24,18475,2,2,No,2,4,No
+22,53,Female,Marketing,5,31,6406,3,7,No,4,1,No
+23,32,Male,Engineering,4,31,11339,3,9,No,3,3,No
+24,42,Female,Sales,2,4,11579,3,2,No,4,1,No
+25,45,Male,Engineering,3,35,6121,4,9,No,1,1,Yes
+26,47,Female,IT,3,38,18946,3,8,No,2,1,No
+27,48,Male,Marketing,3,15,6748,3,0,No,2,4,No
+28,36,Male,IT,2,32,3277,2,4,No,4,2,No
+29,35,Male,Marketing,3,20,14563,4,2,No,3,4,No
+30,23,Male,Finance,2,8,9792,3,5,No,2,4,No
+31,57,Female,Marketing,3,5,16918,3,9,Yes,1,1,No
+32,27,Male,HR,5,34,13374,3,1,No,1,3,No
+33,41,Female,IT,5,38,7675,4,8,No,2,2,No
+34,29,Male,Sales,2,21,4170,3,5,Yes,3,1,No
+35,59,Female,Finance,5,4,11681,3,6,No,3,2,No
+36,38,Male,HR,2,22,13717,5,4,Yes,4,4,No
+37,24,Male,Engineering,5,16,15450,4,8,Yes,4,2,No
+38,45,Female,IT,5,11,13680,5,0,No,2,2,No
+39,34,Male,Customer Support,2,22,13068,3,4,No,4,3,No
+40,29,Male,Customer Support,4,15,5462,3,9,Yes,4,1,No
+41,46,Female,Sales,5,2,16650,4,5,No,4,2,Yes
+42,22,Female,Marketing,3,29,3287,3,6,No,1,2,No
+43,40,Male,Sales,4,21,4161,4,3,Yes,4,4,No
+44,48,Male,Customer Support,2,8,19513,3,0,No,2,4,No
+45,27,Female,Engineering,4,28,5363,3,7,No,3,2,No
+46,28,Male,Finance,1,36,8983,2,9,No,4,1,Yes
+47,55,Male,Finance,1,22,19527,3,3,No,3,2,Yes
+48,34,Male,IT,5,12,11207,1,2,No,4,2,No
+49,37,Female,Finance,5,31,17758,1,6,Yes,2,3,No
+50,56,Female,IT,3,22,3244,5,1,Yes,1,1,No
+51,24,Male,IT,4,16,6178,3,7,No,2,3,No
+52,22,Male,IT,1,39,5176,3,5,No,1,1,No
+53,26,Male,Customer Support,5,20,8002,4,6,Yes,4,1,Yes
+54,24,Female,Customer Support,4,1,3886,3,4,No,4,1,No
+55,49,Male,Marketing,5,36,16721,2,8,No,1,3,No
+56,38,Male,HR,5,5,15142,4,4,Yes,2,3,No
+57,46,Female,IT,1,17,5654,3,4,Yes,2,3,Yes
+58,54,Male,IT,1,29,14984,4,2,No,1,4,No
+59,30,Female,HR,5,21,10135,4,0,No,4,3,No
+60,56,Male,Sales,2,32,3320,5,1,Yes,1,4,No
+61,34,Male,IT,5,29,7654,3,7,No,4,4,No
+62,51,Male,Marketing,5,16,19131,3,0,No,1,4,No
+63,35,Female,Finance,3,31,13770,3,6,No,4,2,No
+64,28,Female,Finance,3,13,9553,2,4,Yes,1,2,No
+65,34,Female,Engineering,3,9,14559,4,2,No,3,2,No
+66,43,Male,Engineering,2,35,12009,2,6,No,4,4,Yes
+67,41,Female,Finance,2,33,16482,3,8,No,2,4,Yes
+68,36,Male,Finance,5,8,10498,4,1,No,1,1,No
+69,38,Male,Customer Support,3,27,9636,3,7,No,2,4,Yes
+70,44,Female,Marketing,2,10,10362,3,8,No,1,2,No
+71,46,Male,HR,1,13,19395,3,2,No,2,4,No
+72,45,Male,Engineering,5,38,19578,4,1,Yes,2,4,No
+73,49,Male,Customer Support,4,18,5537,3,6,Yes,1,1,No
+74,35,Male,Customer Support,5,14,18216,4,4,No,1,4,No
+75,21,Male,HR,4,27,6009,2,4,Yes,2,3,No
+76,45,Female,Customer Support,3,23,17209,4,9,Yes,2,1,Yes
+77,27,Male,Marketing,4,7,18675,4,4,No,2,4,No
+78,29,Female,Finance,3,8,18029,2,3,Yes,4,4,No
+79,44,Female,IT,1,32,5077,3,4,Yes,4,1,No
+80,21,Male,HR,4,32,16907,2,3,Yes,3,4,No
+81,28,Male,Finance,5,18,6867,4,5,No,4,2,No
+82,44,Male,Finance,3,2,19152,3,3,No,4,3,No
+83,31,Female,Sales,5,9,7873,3,1,No,1,3,Yes
+84,37,Male,HR,2,39,11635,2,8,No,3,2,No
+85,28,Female,Customer Support,3,0,3297,3,1,No,3,4,No
+86,55,Male,IT,4,28,16095,1,8,No,4,4,No
+87,55,Female,HR,3,33,12036,3,9,No,1,3,No
+88,53,Male,Customer Support,5,12,4015,3,5,No,1,4,No
+89,25,Male,Finance,1,0,4384,4,8,No,3,3,No
+90,59,Female,IT,3,33,11745,3,8,Yes,1,3,No
+91,48,Female,Customer Support,4,28,4260,3,2,Yes,2,2,No
+92,27,Male,Marketing,2,12,10701,5,0,Yes,4,3,Yes
+93,29,Female,Customer Support,1,28,13401,4,0,No,2,4,Yes
+94,28,Female,Sales,2,38,18519,4,2,No,3,4,No
+95,32,Female,Finance,3,23,14864,3,4,No,3,1,No
+96,54,Female,Customer Support,5,25,18681,3,2,Yes,1,4,Yes
+97,53,Male,Engineering,5,16,8543,2,8,No,1,1,No
+98,43,Male,Engineering,4,6,15488,4,8,No,3,3,No
+99,44,Male,Sales,5,12,13079,2,2,No,3,4,No
+100,57,Female,Marketing,1,4,13744,3,2,No,2,2,No
+101,55,Female,Finance,5,25,6809,3,4,No,2,2,No
+102,42,Male,HR,4,2,10206,3,1,No,1,2,No
+103,47,Male,Sales,3,6,16746,3,5,No,2,3,No
+104,55,Female,Marketing,3,38,18995,2,6,No,1,3,No
+105,21,Other,HR,5,0,19035,3,8,Yes,1,1,Yes
+106,55,Female,Engineering,2,16,14671,3,5,Yes,4,2,No
+107,57,Male,Engineering,3,24,16210,5,2,No,1,1,No
+108,34,Male,HR,5,2,8197,4,4,Yes,2,1,No
+109,23,Male,Sales,4,14,18553,4,3,No,3,4,No
+110,21,Female,Engineering,5,28,10452,4,4,Yes,3,4,No
+111,25,Male,Finance,3,31,11718,3,7,No,2,2,Yes
+112,46,Female,IT,4,25,17859,2,7,No,3,3,No
+113,34,Male,Customer Support,5,15,5172,3,5,No,1,4,Yes
+114,59,Female,HR,1,24,16158,3,0,No,3,3,No
+115,47,Female,HR,4,27,19663,3,7,No,2,1,No
+116,29,Female,Engineering,1,8,14085,3,7,No,3,1,No
+117,35,Male,Sales,2,0,6981,3,1,Yes,1,1,No
+118,35,Male,Finance,4,28,8247,3,3,No,1,1,No
+119,46,Male,Sales,1,21,13553,3,1,Yes,2,2,No
+120,33,Female,Marketing,3,15,9135,2,3,No,2,1,No
+121,52,Female,Marketing,3,6,8573,4,9,No,2,4,No
+122,59,Female,IT,2,13,16731,2,6,No,4,1,No
+123,52,Female,Engineering,4,28,10189,2,8,No,4,3,Yes
+124,24,Female,Engineering,4,18,17541,3,7,No,1,4,Yes
+125,50,Male,Engineering,4,18,13878,3,8,No,4,3,Yes
+126,57,Female,IT,2,1,14087,3,7,No,4,3,No
+127,43,Male,Marketing,4,14,16667,3,1,No,3,2,No
+128,59,Male,Sales,3,2,5776,3,6,No,4,2,No
+129,35,Female,IT,1,10,12311,3,1,No,3,3,No
+130,49,Male,IT,3,29,10697,4,1,No,2,3,Yes
+131,56,Male,Sales,3,39,17629,4,3,No,3,1,No
+132,33,Female,Engineering,1,17,11386,3,0,No,3,4,No
+133,52,Male,Finance,3,1,11044,3,4,No,2,1,Yes
+134,27,Female,Sales,2,31,12615,4,5,No,2,2,No
+135,42,Male,Marketing,1,7,18034,1,8,Yes,1,2,No
+136,48,Male,HR,3,21,8060,3,9,No,1,1,No
+137,22,Male,HR,5,5,13900,3,7,No,1,4,No
+138,26,Male,Customer Support,3,11,8581,4,1,No,1,3,No
+139,48,Female,Customer Support,2,39,5014,1,0,No,3,1,Yes
+140,48,Male,IT,4,35,15997,3,1,No,3,2,No
+141,40,Female,HR,3,14,13635,4,6,Yes,1,4,No
+142,50,Male,Finance,4,27,16648,3,3,No,4,2,No
+143,31,Female,Engineering,5,17,10148,2,9,No,1,4,No
+144,48,Female,Marketing,3,1,17022,5,4,Yes,4,4,No
+145,45,Female,Customer Support,1,12,8919,3,6,Yes,2,4,No
+146,59,Male,Finance,4,14,18886,3,2,No,3,1,No
+147,53,Male,Marketing,5,19,9638,3,9,No,3,1,No
+148,21,Male,Marketing,1,28,7651,3,1,No,4,1,No
+149,47,Female,Engineering,1,28,3609,3,6,Yes,1,4,No
+150,33,Male,IT,1,2,10940,2,4,Yes,3,4,No
+151,23,Female,HR,1,18,13348,2,0,No,4,2,No
+152,59,Female,Engineering,3,2,6866,4,0,No,2,3,No
+153,26,Male,Finance,3,13,19755,3,8,No,2,1,Yes
+154,28,Female,IT,3,39,19999,2,4,No,3,4,No
+155,47,Male,Finance,5,3,5253,3,0,Yes,1,2,No
+156,29,Male,IT,5,10,7942,4,6,No,4,2,No
+157,57,Female,Customer Support,5,30,15330,2,8,Yes,3,2,No
+158,53,Female,Finance,2,31,3864,3,0,No,2,1,No
+159,44,Female,Engineering,5,26,4268,2,9,No,1,1,No
+160,35,Male,IT,3,29,10454,1,3,Yes,4,3,No
+161,52,Male,IT,3,1,16666,2,2,Yes,3,2,No
+162,52,Female,Marketing,2,8,15370,4,4,Yes,4,1,No
+163,44,Female,Marketing,2,27,8229,2,6,No,1,2,No
+164,32,Female,Sales,5,30,19309,1,7,No,1,4,No
+165,59,Male,Finance,4,33,7054,3,1,Yes,2,2,No
+166,22,Female,Marketing,2,14,3935,4,6,No,1,3,Yes
+167,23,Male,Sales,1,24,15172,3,0,Yes,3,1,Yes
+168,57,Male,Customer Support,3,35,13530,3,6,No,4,4,No
+169,37,Female,Customer Support,1,7,18560,1,7,No,1,1,No
+170,22,Male,Marketing,3,8,19156,3,1,No,1,4,No
+171,22,Female,Finance,3,36,19709,3,8,No,3,2,No
+172,48,Male,IT,2,38,12726,3,0,No,4,2,No
+173,43,Male,HR,2,31,10774,3,5,No,4,3,No
+174,57,Female,Finance,1,16,4985,3,0,No,2,3,No
+175,52,Female,Engineering,3,34,17252,2,2,No,2,4,No
+176,53,Female,Customer Support,1,36,7603,3,5,Yes,4,3,No
+177,21,Female,Marketing,4,18,18960,2,2,Yes,3,3,Yes
+178,39,Female,Marketing,1,28,12462,4,7,No,3,3,No
+179,22,Female,IT,5,6,17166,5,4,No,2,3,No
+180,46,Female,Engineering,1,27,10754,5,1,No,1,2,No
+181,52,Male,IT,5,8,17246,4,3,No,3,3,No
+182,26,Female,Engineering,5,27,7078,3,8,No,1,2,No
+183,52,Male,HR,5,5,15853,4,3,No,3,2,Yes
+184,24,Other,Customer Support,4,28,7042,3,9,No,4,1,No
+185,31,Female,Marketing,1,16,19284,3,9,No,2,2,No
+186,37,Male,Marketing,1,15,17389,3,7,No,1,2,No
+187,58,Female,HR,4,22,5575,3,4,Yes,1,3,No
+188,44,Female,Sales,3,30,9754,4,9,No,4,2,Yes
+189,25,Male,Customer Support,2,2,4986,3,0,No,3,4,Yes
+190,54,Female,IT,1,20,18470,3,6,No,1,3,No
+191,26,Female,HR,2,25,8968,4,2,Yes,3,3,No
+192,42,Male,IT,4,35,10493,2,9,Yes,4,3,Yes
+193,31,Female,Finance,3,36,7103,3,7,No,2,1,No
+194,36,Male,Marketing,3,21,5076,4,2,No,1,3,Yes
+195,53,Female,IT,3,11,5994,3,0,No,3,2,No
+196,29,Other,Engineering,4,12,6744,3,4,No,1,4,Yes
+197,26,Female,IT,5,10,17466,3,1,No,3,3,No
+198,36,Male,Finance,5,15,17523,3,3,No,3,3,No
+199,49,Female,Customer Support,2,7,8594,4,0,Yes,3,4,No
+200,23,Female,Marketing,5,39,10531,3,8,No,4,3,Yes
+201,40,Male,HR,5,39,10371,3,5,No,2,1,No
+202,56,Female,Finance,3,1,17547,2,7,Yes,1,2,No
+203,39,Male,Marketing,3,29,6144,1,3,No,2,4,No
+204,46,Female,IT,2,29,16990,5,8,No,3,4,No
+205,23,Male,Customer Support,1,11,17083,3,1,No,3,1,No
+206,39,Male,Sales,2,9,19626,3,8,No,2,2,Yes
+207,40,Male,Customer Support,2,10,10954,2,4,No,2,1,No
+208,52,Female,Sales,4,14,10269,3,5,Yes,1,2,No
+209,27,Male,Engineering,4,15,10130,4,2,No,3,1,No
+210,53,Female,Customer Support,2,16,9828,3,3,No,2,3,Yes
+211,59,Male,Marketing,2,25,11844,2,5,No,4,1,No
+212,38,Male,Sales,2,1,17220,3,6,No,3,4,No
+213,21,Female,HR,5,11,9331,4,0,Yes,3,4,Yes
+214,31,Female,Marketing,4,25,16397,3,6,Yes,1,4,No
+215,48,Male,HR,2,22,13291,4,0,No,4,1,Yes
+216,45,Female,Customer Support,3,17,13164,3,4,Yes,1,4,No
+217,43,Female,HR,3,31,13450,4,5,No,4,4,Yes
+218,51,Female,Sales,5,37,5035,3,1,No,1,3,No
+219,50,Male,Marketing,5,2,14463,2,9,No,4,3,No
+220,55,Male,IT,1,37,10977,3,8,No,4,2,No
+221,27,Female,Finance,1,2,15182,3,9,No,4,2,No
+222,36,Male,Sales,1,29,3298,4,5,No,2,2,Yes
+223,46,Female,Sales,5,0,3923,4,6,Yes,3,1,No
+224,22,Female,IT,5,29,16331,3,9,Yes,4,2,No
+225,21,Female,Marketing,5,31,9578,3,7,Yes,2,1,No
+226,32,Female,Marketing,3,27,7875,2,9,No,2,1,No
+227,25,Other,Customer Support,5,20,15254,4,0,Yes,1,2,No
+228,57,Male,HR,3,12,13905,3,7,No,3,2,No
+229,52,Female,Customer Support,1,26,16353,3,3,No,3,1,No
+230,29,Male,IT,1,35,18882,3,9,No,1,3,No
+231,55,Male,Customer Support,1,6,12663,1,7,Yes,3,4,No
+232,39,Female,IT,2,21,3941,3,5,No,1,4,No
+233,36,Female,Marketing,2,9,4907,3,8,Yes,2,4,No
+234,23,Other,HR,4,38,7837,2,3,No,2,3,No
+235,40,Female,Customer Support,4,14,16680,5,1,No,4,1,No
+236,44,Male,Sales,4,14,8696,3,1,No,1,2,Yes
+237,53,Male,Engineering,2,3,19226,2,4,No,2,1,No
+238,44,Female,Finance,2,31,16543,3,9,Yes,2,1,No
+239,31,Male,Sales,4,22,15615,4,8,No,1,2,No
+240,28,Male,Marketing,4,5,4466,3,2,No,2,3,No
+241,56,Male,Finance,5,23,3375,3,7,No,3,4,No
+242,58,Male,Engineering,4,19,3262,1,3,No,2,4,No
+243,40,Male,Engineering,5,36,14580,1,5,No,1,1,No
+244,55,Male,HR,3,19,13136,3,9,No,3,3,No
+245,45,Male,Finance,2,11,10833,4,5,No,3,4,No
+246,55,Male,HR,4,32,4893,4,2,No,2,3,No
+247,45,Other,Sales,2,27,11106,2,4,No,4,2,No
+248,49,Male,IT,2,7,14826,3,2,No,3,1,No
+249,38,Male,IT,2,0,4652,4,0,No,1,1,No
+250,38,Female,IT,3,36,3599,3,6,Yes,4,3,No
+251,22,Male,Finance,1,21,11792,4,3,Yes,4,4,No
+252,55,Female,IT,4,5,6637,2,6,No,3,3,No
+253,36,Female,Sales,1,20,13355,4,2,No,2,2,No
+254,56,Male,HR,1,31,18989,4,4,No,4,4,No
+255,53,Male,Finance,1,34,12290,4,4,Yes,2,4,No
+256,24,Female,HR,2,14,8599,3,1,Yes,3,3,No
+257,53,Female,Finance,5,4,17342,3,9,No,1,2,No
+258,34,Male,HR,2,5,16945,4,1,No,4,4,No
+259,41,Female,Engineering,2,24,13762,3,3,Yes,1,1,No
+260,40,Male,HR,1,39,17312,3,3,No,2,2,No
+261,28,Other,IT,2,28,10382,4,3,No,2,4,No
+262,27,Male,Engineering,1,6,11982,4,5,No,1,3,No
+263,23,Female,HR,5,39,10707,4,1,No,3,4,No
+264,37,Female,Finance,4,12,7633,3,5,No,3,1,No
+265,53,Female,Finance,1,37,12269,4,6,No,4,2,No
+266,32,Female,Finance,5,17,16778,4,9,No,4,4,No
+267,42,Male,Marketing,4,1,10008,2,2,Yes,3,1,No
+268,42,Male,Sales,3,7,18523,3,7,No,3,4,No
+269,50,Male,Finance,1,10,6618,3,1,No,1,4,No
+270,58,Male,Engineering,1,32,3272,3,7,No,2,2,No
+271,58,Female,Finance,3,37,16007,5,4,No,2,3,No
+272,28,Male,Marketing,3,26,5547,3,1,No,4,3,No
+273,47,Male,IT,1,19,6164,4,6,No,3,1,No
+274,47,Other,Engineering,3,11,17414,5,1,Yes,1,1,No
+275,54,Female,Marketing,2,30,17327,3,5,No,4,1,Yes
+276,41,Female,IT,4,26,18576,4,9,No,1,2,No
+277,50,Other,Customer Support,4,31,3946,3,2,No,3,3,No
+278,53,Male,Customer Support,4,9,17693,4,8,No,3,1,No
+279,48,Male,Engineering,2,2,19890,2,2,No,3,1,No
+280,53,Female,HR,3,26,18540,4,2,Yes,2,4,Yes
+281,25,Female,Sales,5,34,9719,3,4,No,3,4,Yes
+282,39,Male,Sales,3,30,11435,3,6,No,4,1,No
+283,24,Female,Marketing,1,14,14350,4,7,No,2,4,No
+284,55,Male,IT,4,15,6590,3,6,No,1,4,No
+285,37,Male,Sales,3,12,13064,3,8,No,4,4,No
+286,48,Female,IT,5,34,3390,3,4,No,4,2,No
+287,50,Female,IT,1,10,15668,4,9,No,1,1,No
+288,49,Female,Marketing,2,20,14569,3,2,Yes,2,1,No
+289,26,Male,Marketing,2,10,16029,2,5,No,4,4,Yes
+290,55,Female,Marketing,5,29,16107,3,4,Yes,4,2,No
+291,57,Male,Sales,1,34,5560,3,3,Yes,4,4,No
+292,44,Male,Customer Support,4,21,8867,2,1,Yes,2,2,No
+293,49,Female,Marketing,3,37,18284,3,6,No,2,1,No
+294,51,Female,Sales,1,30,4211,3,4,No,2,4,No
+295,55,Female,Marketing,2,13,12121,2,3,Yes,4,1,Yes
+296,53,Female,Finance,5,23,4539,3,7,Yes,3,2,No
+297,41,Female,IT,5,31,11693,4,8,No,1,3,No
+298,52,Female,Marketing,3,35,11921,2,8,Yes,3,2,No
+299,43,Male,Engineering,5,31,13310,3,2,No,2,3,No
+300,53,Male,IT,5,14,15744,3,2,Yes,4,1,No
+301,23,Male,IT,1,34,7386,3,4,No,4,1,No
+302,38,Male,Marketing,4,2,15242,4,4,No,3,4,Yes
+303,45,Female,Customer Support,3,15,17257,3,9,No,3,3,No
+304,51,Female,HR,1,4,11947,3,1,No,1,2,Yes
+305,23,Male,Customer Support,4,20,16946,1,0,No,4,1,No
+306,44,Male,Marketing,1,9,8930,3,7,Yes,3,3,No
+307,52,Female,IT,1,18,8402,3,2,No,1,2,No
+308,42,Male,Engineering,5,24,19017,1,0,No,2,3,No
+309,43,Female,IT,4,3,3507,3,0,Yes,3,2,Yes
+310,22,Female,Customer Support,3,28,4436,5,1,Yes,2,2,Yes
+311,47,Female,Engineering,3,18,14618,3,5,No,1,2,No
+312,22,Female,Sales,4,1,11750,3,5,Yes,2,2,No
+313,46,Female,Finance,5,9,19122,4,2,No,4,3,No
+314,37,Male,IT,2,24,10354,4,3,No,4,3,Yes
+315,53,Female,Marketing,1,19,14294,3,1,No,2,4,No
+316,29,Female,Sales,5,18,16840,4,1,No,4,3,No
+317,59,Male,Finance,4,22,7399,4,6,No,1,3,No
+318,49,Female,Marketing,1,23,8037,3,0,Yes,4,4,No
+319,46,Female,HR,3,10,18848,3,6,No,2,3,No
+320,55,Female,Marketing,2,33,6715,3,0,Yes,2,2,No
+321,45,Female,Engineering,3,27,17877,5,5,No,2,1,Yes
+322,44,Female,Engineering,4,4,10837,3,2,No,3,1,No
+323,33,Female,HR,1,4,4301,2,7,Yes,2,4,No
+324,27,Female,Sales,4,20,10370,4,5,No,1,3,No
+325,56,Female,Finance,1,11,9411,3,1,Yes,4,3,No
+326,40,Female,Marketing,5,3,9365,2,7,No,4,4,No
+327,21,Female,Engineering,2,19,18449,3,4,No,3,1,No
+328,28,Female,Sales,5,37,3692,3,7,No,3,2,No
+329,36,Male,HR,5,24,4478,4,7,Yes,1,3,No
+330,34,Female,Customer Support,4,13,9396,3,5,No,2,4,No
+331,32,Female,IT,2,10,11448,4,1,No,3,2,No
+332,43,Male,Customer Support,1,31,13622,3,7,No,4,4,Yes
+333,35,Female,Customer Support,1,10,19825,2,5,No,3,4,No
+334,48,Male,Engineering,3,17,13073,5,5,Yes,3,4,No
+335,54,Male,HR,1,26,5646,3,7,No,2,1,No
+336,22,Female,Marketing,4,17,8209,3,0,No,3,1,No
+337,52,Male,Customer Support,5,22,9533,3,1,No,1,4,No
+338,43,Female,Customer Support,5,10,10211,4,8,No,4,3,No
+339,42,Female,Finance,5,20,12927,3,7,No,2,2,No
+340,45,Female,Engineering,2,4,14927,2,6,No,4,3,No
+341,42,Male,Engineering,1,22,12316,2,6,Yes,1,1,No
+342,42,Male,Marketing,4,24,15177,3,4,Yes,1,2,No
+343,26,Female,IT,2,9,13846,4,1,No,3,4,No
+344,35,Other,Sales,3,21,10933,3,5,No,3,3,No
+345,57,Female,Finance,4,18,8476,3,9,No,3,3,No
+346,53,Male,Engineering,4,0,16853,2,2,No,4,4,No
+347,28,Female,Finance,4,6,10928,3,3,No,1,3,No
+348,25,Female,Engineering,5,3,5080,4,9,Yes,2,1,No
+349,59,Female,Finance,4,0,9089,3,1,No,3,4,No
+350,24,Male,HR,1,14,10797,5,1,No,4,3,No
+351,26,Female,Customer Support,4,39,11346,3,7,Yes,3,4,No
+352,52,Female,Engineering,5,11,3904,2,7,Yes,1,2,No
+353,50,Other,Finance,4,21,19788,4,9,No,2,4,Yes
+354,55,Male,Sales,3,21,12974,3,5,Yes,1,3,No
+355,36,Female,HR,3,16,4184,4,4,No,4,1,No
+356,33,Female,HR,5,28,4725,5,7,Yes,3,4,No
+357,50,Male,Sales,1,13,14380,2,3,No,1,4,No
+358,39,Female,Finance,1,19,16057,2,3,No,4,3,Yes
+359,37,Female,Marketing,2,32,8606,4,4,No,3,1,No
+360,39,Male,Sales,5,14,6956,3,0,Yes,2,1,No
+361,48,Male,Finance,4,11,19555,2,0,Yes,1,2,No
+362,46,Female,Sales,5,39,19081,1,1,No,3,2,No
+363,57,Male,Sales,2,19,3421,1,7,No,3,3,No
+364,46,Female,Engineering,5,29,8540,4,6,Yes,3,1,No
+365,43,Male,Finance,5,37,19288,2,9,Yes,3,1,No
+366,29,Female,Marketing,2,2,18966,3,8,No,1,2,No
+367,32,Male,Customer Support,1,27,18882,3,4,No,3,2,No
+368,21,Female,Engineering,4,25,7675,3,1,Yes,4,3,No
+369,21,Other,Sales,2,29,12082,1,6,Yes,1,1,Yes
+370,54,Other,Customer Support,3,12,16009,4,7,No,3,4,No
+371,52,Female,IT,1,12,9748,1,6,No,1,2,Yes
+372,45,Male,Customer Support,3,1,9103,4,6,No,4,3,Yes
+373,21,Female,Sales,1,36,14348,4,4,No,4,1,No
+374,36,Male,Sales,4,37,12782,3,1,Yes,1,1,No
+375,59,Male,Finance,4,1,8882,3,5,No,3,2,Yes
+376,25,Male,Finance,5,35,8798,3,3,No,3,3,No
+377,42,Female,Engineering,3,25,12627,3,9,No,4,4,No
+378,49,Female,Marketing,1,10,11415,4,1,No,3,2,No
+379,23,Female,Engineering,4,7,15466,4,8,Yes,4,3,No
+380,32,Male,HR,2,39,12846,3,6,No,3,1,No
+381,46,Male,Sales,4,21,15720,3,5,No,4,4,No
+382,36,Other,Customer Support,2,19,12145,4,4,No,2,3,No
+383,57,Male,IT,1,7,7524,5,2,No,3,4,Yes
+384,42,Male,Sales,4,28,9559,3,9,Yes,3,3,No
+385,49,Male,Sales,4,39,10620,3,9,No,3,3,No
+386,34,Female,Engineering,1,25,6124,3,3,No,1,3,No
+387,48,Female,IT,4,29,11671,5,2,No,3,3,No
+388,25,Male,IT,2,16,14706,2,7,No,1,4,No
+389,50,Male,IT,4,19,15070,3,2,No,1,2,No
+390,25,Female,Engineering,3,15,11134,3,6,No,4,4,No
+391,32,Female,Sales,5,6,3924,3,6,Yes,1,3,No
+392,36,Male,Engineering,2,15,8506,3,6,Yes,1,4,No
+393,46,Female,Finance,3,26,16650,5,6,No,2,4,No
+394,46,Male,Finance,1,22,5395,2,1,Yes,3,4,Yes
+395,41,Male,Engineering,2,23,18310,3,9,No,1,3,No
+396,59,Female,IT,5,8,11226,2,2,No,3,4,No
+397,56,Male,Sales,5,34,14781,2,9,No,1,1,No
+398,53,Female,Engineering,1,19,8515,3,8,Yes,4,3,No
+399,50,Male,Engineering,1,36,6365,3,2,No,2,4,No
+400,57,Male,Engineering,2,16,19972,3,1,Yes,1,1,No
+401,43,Other,HR,4,30,14410,3,8,No,3,4,No
+402,30,Male,Finance,1,7,12095,2,9,No,4,2,No
+403,25,Female,Customer Support,4,14,13361,3,8,No,3,4,No
+404,56,Male,IT,3,30,11531,5,3,No,4,4,No
+405,54,Male,Marketing,5,29,7270,4,8,Yes,2,2,No
+406,51,Male,Customer Support,4,19,12906,3,2,No,4,3,No
+407,30,Female,IT,5,38,19940,3,6,Yes,3,2,No
+408,39,Male,Marketing,4,11,14279,4,6,No,3,3,No
+409,52,Female,HR,3,16,8452,1,7,Yes,1,2,No
+410,21,Male,Engineering,1,29,9477,4,9,No,4,4,No
+411,25,Other,HR,3,28,9470,4,3,No,3,4,No
+412,24,Male,HR,1,18,5062,2,2,No,1,3,No
+413,36,Female,Customer Support,1,10,12030,2,2,No,2,3,No
+414,44,Female,Sales,5,33,4813,5,4,No,3,1,No
+415,36,Female,Customer Support,3,6,14671,3,0,Yes,1,1,No
+416,22,Female,Finance,4,33,17308,1,9,No,3,4,No
+417,48,Female,Marketing,3,19,5313,3,2,Yes,4,4,No
+418,52,Female,Engineering,5,37,12706,3,5,No,1,1,No
+419,47,Male,Customer Support,1,23,12837,3,2,No,4,1,No
+420,40,Male,Marketing,5,9,8831,4,4,No,2,3,No
+421,44,Female,IT,2,31,7056,5,8,No,4,2,No
+422,32,Female,Marketing,2,14,3305,3,1,No,1,3,No
+423,55,Female,IT,4,36,17347,3,1,No,3,1,Yes
+424,53,Female,Customer Support,5,19,4689,3,5,Yes,1,4,No
+425,53,Male,Finance,4,2,6917,3,5,No,4,1,No
+426,57,Male,Customer Support,4,36,5936,2,7,No,4,4,No
+427,32,Female,IT,2,39,6862,5,1,No,3,4,No
+428,23,Male,Marketing,4,7,17506,4,8,No,2,4,Yes
+429,21,Male,Marketing,2,39,17318,3,1,Yes,1,4,No
+430,53,Female,IT,1,22,18300,3,0,No,3,2,No
+431,30,Male,HR,5,39,8649,3,9,No,3,1,No
+432,49,Female,Finance,4,10,18674,3,1,Yes,3,3,No
+433,33,Male,Sales,2,7,8560,3,6,Yes,1,4,No
+434,32,Female,Engineering,3,28,18451,3,7,No,1,4,No
+435,51,Male,Marketing,4,29,4079,5,4,No,1,3,No
+436,22,Male,Engineering,1,9,16983,3,5,No,2,3,No
+437,55,Male,Sales,1,38,18327,3,0,No,3,4,No
+438,43,Male,Customer Support,3,27,15755,4,5,No,4,3,No
+439,37,Male,Engineering,2,35,10235,2,7,Yes,4,3,No
+440,46,Male,Sales,4,12,5031,3,2,No,3,2,No
+441,28,Female,IT,2,31,11514,3,0,Yes,4,3,Yes
+442,49,Male,HR,1,35,12095,3,3,No,2,1,No
+443,46,Female,Marketing,2,36,17287,4,0,No,2,1,No
+444,30,Female,Sales,1,25,8911,3,7,No,1,1,No
+445,46,Female,Engineering,2,21,14695,4,4,No,1,4,No
+446,54,Male,Marketing,3,3,6340,3,0,No,1,1,No
+447,27,Female,HR,5,30,10876,3,7,Yes,1,2,No
+448,24,Male,IT,3,17,18896,4,8,No,1,1,No
+449,31,Male,Customer Support,3,37,15435,3,9,Yes,4,4,Yes
+450,49,Other,Marketing,5,23,4141,3,1,No,4,2,No
+451,56,Male,Customer Support,5,22,12281,3,8,No,1,1,No
+452,45,Female,Sales,4,21,5038,3,7,No,2,2,Yes
+453,41,Female,HR,4,1,7270,1,6,No,4,2,No
+454,56,Female,Engineering,3,30,13046,3,2,No,2,4,No
+455,30,Female,HR,3,10,7683,3,1,Yes,2,4,No
+456,57,Male,HR,1,27,19878,3,6,No,3,2,No
+457,29,Male,Finance,1,31,10116,5,4,No,3,1,No
+458,44,Female,HR,4,4,4784,3,5,No,1,4,No
+459,55,Male,HR,4,37,6786,4,3,No,2,2,Yes
+460,55,Male,Marketing,1,9,12190,2,1,No,4,3,Yes
+461,56,Male,Engineering,1,39,8428,3,8,No,3,3,No
+462,38,Male,Marketing,2,23,9681,4,2,Yes,3,4,No
+463,59,Male,Marketing,2,34,9893,3,6,No,2,1,No
+464,52,Male,Sales,1,22,15661,4,7,No,3,3,No
+465,44,Female,Marketing,2,16,17892,3,1,No,3,3,No
+466,43,Female,Finance,5,0,12643,2,5,No,4,3,No
+467,52,Female,Finance,4,30,12943,3,7,Yes,2,1,No
+468,57,Male,Customer Support,4,30,13472,3,6,Yes,3,1,No
+469,32,Male,Sales,1,33,15992,4,2,Yes,2,4,No
+470,33,Male,Customer Support,3,8,14126,3,0,No,3,4,No
+471,43,Female,Customer Support,1,21,9869,5,5,Yes,4,3,No
+472,45,Female,IT,2,12,10669,5,7,No,2,1,No
+473,55,Male,Engineering,3,24,14538,3,5,No,3,2,No
+474,50,Female,Engineering,2,17,13065,3,4,No,4,3,No
+475,37,Male,Marketing,5,11,13171,4,7,No,3,4,No
+476,40,Female,Marketing,2,39,5962,5,1,Yes,2,1,No
+477,45,Female,IT,5,16,16851,3,0,Yes,3,4,No
+478,42,Female,Marketing,5,14,15979,3,0,No,2,4,No
+479,33,Female,Engineering,2,14,8296,3,3,Yes,2,1,No
+480,39,Female,Customer Support,2,14,17745,3,5,No,3,3,No
+481,56,Male,HR,5,38,8730,3,8,No,4,1,No
+482,32,Female,Finance,3,12,16921,4,0,No,1,3,Yes
+483,39,Male,HR,5,16,3126,2,0,Yes,4,4,No
+484,32,Female,HR,4,31,8602,1,4,No,4,1,No
+485,29,Female,Engineering,5,8,15581,3,9,Yes,3,2,No
+486,27,Female,HR,3,39,18997,3,4,No,4,3,No
+487,48,Male,IT,4,19,12211,3,4,No,4,2,No
+488,34,Female,Sales,1,25,17997,3,9,No,1,3,No
+489,51,Female,Marketing,1,26,9671,3,5,No,4,1,No
+490,39,Female,Sales,3,20,15271,2,7,No,1,2,No
+491,36,Male,Customer Support,5,17,11876,3,2,No,3,1,No
+492,25,Male,Finance,2,12,5887,5,8,No,1,3,No
+493,55,Male,Marketing,3,15,12654,3,0,Yes,2,3,Yes
+494,32,Male,HR,4,8,7086,3,3,No,2,3,No
+495,45,Female,Finance,4,11,7180,3,8,No,1,3,No
+496,41,Male,Marketing,1,37,5841,5,7,Yes,2,4,No
+497,56,Other,IT,4,18,9040,3,9,Yes,3,3,No
+498,43,Male,IT,3,6,13304,3,8,Yes,2,2,No
+499,36,Male,IT,4,34,7758,4,0,Yes,1,3,No
+500,59,Female,IT,3,17,19234,3,8,No,3,1,No
+501,59,Female,HR,2,15,8014,2,2,No,2,4,No
+502,34,Female,Sales,1,38,4375,3,9,No,3,2,No
+503,51,Female,Marketing,4,3,4181,2,8,No,1,4,No
+504,25,Female,HR,3,24,3490,3,0,No,2,4,No
+505,55,Male,IT,5,31,6729,4,0,Yes,3,4,No
+506,43,Other,Customer Support,1,39,8974,3,8,No,3,1,No
+507,49,Other,Sales,2,12,4882,4,5,No,2,4,No
+508,31,Female,Customer Support,3,16,5987,1,3,No,3,4,No
+509,38,Male,Finance,2,36,8585,4,6,No,3,3,No
+510,32,Female,Customer Support,2,5,6159,3,4,No,1,1,Yes
+511,29,Male,Finance,4,18,7530,3,9,Yes,1,2,Yes
+512,30,Male,Finance,4,12,4073,2,6,No,1,2,No
+513,37,Male,IT,3,25,16743,5,7,Yes,1,2,No
+514,58,Male,Finance,5,13,5693,2,7,No,1,1,Yes
+515,27,Female,Engineering,3,30,12562,2,0,No,1,2,No
+516,33,Female,Marketing,5,3,7340,3,7,Yes,2,1,No
+517,29,Female,Marketing,2,38,5156,3,5,No,1,3,No
+518,47,Male,IT,1,7,19184,3,3,Yes,3,3,No
+519,22,Male,Engineering,3,24,10966,2,7,No,2,1,Yes
+520,25,Male,Customer Support,3,12,5580,3,2,No,3,2,No
+521,49,Other,HR,5,31,10257,3,3,No,1,1,Yes
+522,57,Male,Customer Support,2,37,5159,3,5,Yes,1,1,No
+523,58,Female,HR,2,37,19172,3,6,No,3,4,No
+524,39,Female,Finance,5,27,16900,4,3,No,3,1,Yes
+525,28,Male,Sales,2,29,14440,3,3,No,3,4,No
+526,21,Female,HR,4,2,17678,3,6,Yes,4,3,No
+527,42,Female,Sales,1,27,17436,3,5,No,4,4,No
+528,37,Female,Marketing,3,2,15021,5,7,No,4,1,No
+529,27,Female,Sales,1,33,9772,5,0,Yes,4,3,No
+530,45,Male,Marketing,3,15,4627,4,9,No,2,4,No
+531,24,Male,Engineering,4,21,14664,3,6,No,1,1,No
+532,56,Female,Engineering,2,31,11219,2,6,No,3,3,No
+533,26,Female,IT,5,37,12713,3,6,No,1,4,No
+534,51,Male,IT,4,7,11488,3,6,No,3,1,No
+535,39,Female,Finance,1,7,5181,3,9,No,1,1,No
+536,59,Female,HR,5,5,14594,4,9,Yes,2,2,No
+537,47,Female,Finance,2,13,10164,4,7,No,4,2,No
+538,30,Male,Marketing,4,31,3901,4,8,No,1,4,No
+539,46,Female,Finance,5,34,12290,3,8,No,3,4,No
+540,39,Female,Sales,4,9,5881,3,1,No,1,4,No
+541,59,Male,Marketing,4,2,16058,3,6,No,2,1,No
+542,23,Male,IT,2,11,8622,2,6,No,2,4,No
+543,33,Other,Engineering,3,30,4378,4,3,No,1,1,No
+544,48,Male,IT,5,28,8650,1,8,No,4,4,No
+545,40,Female,HR,2,4,15433,3,7,No,3,1,No
+546,48,Female,Marketing,4,24,12456,3,0,Yes,2,1,No
+547,28,Male,Marketing,2,30,10036,3,1,Yes,2,2,No
+548,59,Female,Sales,3,20,9487,4,1,No,1,3,No
+549,21,Male,HR,5,19,7248,3,7,No,2,1,No
+550,23,Female,Engineering,3,38,7603,4,0,No,2,4,No
+551,33,Male,Customer Support,1,21,15632,3,3,Yes,3,2,No
+552,48,Female,Marketing,5,3,3220,3,9,Yes,4,4,No
+553,45,Male,Marketing,3,12,17226,4,4,Yes,3,4,No
+554,53,Male,Sales,4,19,7818,3,8,Yes,4,1,Yes
+555,58,Other,Finance,5,12,10349,5,6,Yes,3,1,No
+556,26,Male,Engineering,5,16,8618,3,7,No,1,3,No
+557,52,Female,IT,2,35,12856,3,8,No,2,1,No
+558,41,Male,HR,4,32,7576,3,6,No,4,1,No
+559,36,Female,Marketing,1,0,18207,4,4,No,1,3,No
+560,41,Male,Marketing,3,14,4462,2,4,No,2,4,No
+561,31,Other,IT,2,12,18905,4,9,Yes,2,3,No
+562,57,Male,Engineering,3,16,19252,3,5,Yes,2,3,No
+563,56,Male,Finance,1,23,11236,3,4,No,3,3,No
+564,55,Male,Marketing,1,7,10813,3,8,No,1,2,No
+565,39,Male,Engineering,5,26,5068,3,2,No,1,4,No
+566,40,Female,IT,1,22,8753,3,2,No,2,2,No
+567,38,Male,Sales,3,7,10237,4,6,No,4,2,No
+568,34,Female,Finance,4,7,17175,3,6,No,1,1,No
+569,35,Male,HR,4,25,9191,3,5,No,3,3,No
+570,51,Male,Marketing,5,12,17622,3,2,No,4,3,No
+571,21,Female,Engineering,3,38,4001,2,6,No,4,2,No
+572,23,Female,Sales,3,36,17877,3,4,No,4,1,No
+573,36,Male,HR,1,27,13232,3,6,Yes,4,1,No
+574,43,Male,Customer Support,3,24,7476,3,1,No,1,1,No
+575,31,Male,Engineering,2,15,19862,2,5,No,2,4,No
+576,32,Female,Engineering,1,1,3515,3,7,No,4,2,No
+577,30,Female,HR,2,17,15478,3,0,No,3,4,Yes
+578,52,Male,Sales,5,16,4191,3,3,No,3,1,No
+579,36,Female,Customer Support,4,29,13860,3,0,No,2,1,Yes
+580,28,Female,IT,5,38,16448,2,0,No,1,1,Yes
+581,58,Female,Sales,4,12,9297,4,9,No,2,3,No
+582,32,Female,Finance,5,31,19655,4,7,Yes,4,2,No
+583,44,Male,Marketing,3,28,11334,4,6,No,1,3,No
+584,48,Male,HR,2,29,9008,2,9,No,1,4,Yes
+585,28,Male,IT,4,17,10987,4,0,Yes,4,3,No
+586,48,Male,Customer Support,1,12,6332,4,1,Yes,3,2,No
+587,56,Female,HR,2,20,3787,4,3,No,4,3,No
+588,46,Female,HR,1,29,9222,2,0,No,2,1,No
+589,28,Male,Sales,2,20,12873,3,2,No,4,4,No
+590,48,Male,Marketing,2,16,6676,4,7,Yes,3,4,No
+591,48,Male,Finance,5,39,5572,3,7,No,4,1,No
+592,57,Female,Engineering,4,18,9915,3,7,No,2,1,No
+593,56,Male,Engineering,4,14,8033,3,5,Yes,2,1,No
+594,47,Female,HR,2,8,10788,3,5,Yes,3,2,No
+595,37,Male,Marketing,3,9,18689,1,4,No,2,3,No
+596,29,Male,Customer Support,3,30,14452,3,8,No,2,4,No
+597,53,Other,Customer Support,1,22,7712,2,3,No,4,3,No
+598,40,Other,IT,1,29,3066,3,9,Yes,1,1,No
+599,33,Male,Sales,5,32,18855,3,6,No,2,1,No
+600,48,Female,Marketing,2,8,15478,3,0,No,2,3,No
+601,49,Female,Marketing,1,0,10533,2,8,Yes,3,4,No
+602,33,Female,Sales,1,34,18103,3,6,No,3,2,No
+603,55,Male,Customer Support,2,10,7616,4,9,No,4,3,No
+604,26,Female,Customer Support,5,33,16277,2,8,Yes,4,1,No
+605,38,Female,Customer Support,1,15,8730,2,6,No,2,1,Yes
+606,25,Female,HR,5,8,13724,2,1,No,1,2,No
+607,45,Male,Marketing,4,31,14772,4,5,No,1,3,No
+608,22,Male,Engineering,5,14,19268,3,9,Yes,4,2,No
+609,30,Male,Sales,3,11,15940,3,3,Yes,3,2,No
+610,50,Female,Customer Support,3,32,19932,2,2,No,2,4,No
+611,25,Male,IT,5,13,17643,3,1,No,2,4,No
+612,53,Female,Customer Support,3,7,3198,4,5,Yes,1,1,No
+613,21,Other,Customer Support,4,7,19955,4,7,Yes,4,3,No
+614,38,Male,Finance,2,26,12830,3,5,Yes,1,4,Yes
+615,52,Female,HR,3,11,16798,2,8,No,1,1,No
+616,31,Male,Sales,3,0,14469,2,4,No,4,3,No
+617,41,Female,Finance,5,39,3178,1,1,No,3,1,No
+618,46,Male,Finance,4,10,3798,3,7,Yes,2,4,No
+619,45,Female,IT,2,38,10601,2,8,No,3,1,No
+620,42,Female,Marketing,5,30,5795,3,9,Yes,4,3,No
+621,47,Female,IT,5,16,15496,3,3,No,4,3,No
+622,33,Female,Marketing,4,32,7588,4,5,No,2,1,No
+623,53,Female,Marketing,2,31,10297,3,9,No,3,3,No
+624,54,Female,Sales,4,28,6084,4,7,No,2,1,No
+625,55,Female,Customer Support,2,20,14110,4,8,Yes,1,3,No
+626,21,Female,Sales,4,20,3731,2,4,Yes,1,1,No
+627,41,Male,HR,5,39,4129,4,5,No,1,1,No
+628,26,Female,Marketing,5,22,4605,3,3,No,3,1,No
+629,48,Female,Finance,1,5,14970,3,4,No,1,2,No
+630,37,Female,Customer Support,3,21,13937,3,6,No,2,3,No
+631,25,Male,Engineering,4,37,14362,5,8,No,3,4,No
+632,51,Female,HR,1,36,5933,3,9,Yes,2,1,No
+633,25,Male,Sales,3,7,18187,3,5,Yes,4,2,No
+634,58,Female,IT,4,34,8074,4,5,No,3,4,No
+635,23,Male,HR,2,10,17037,1,7,Yes,2,1,No
+636,43,Female,HR,3,23,10099,3,3,No,2,4,No
+637,57,Other,Customer Support,5,20,3893,4,2,Yes,3,2,No
+638,57,Male,HR,1,1,4390,4,6,No,4,4,No
+639,30,Other,HR,3,39,7239,5,4,No,3,1,No
+640,30,Male,Engineering,3,18,6432,5,1,Yes,1,4,No
+641,39,Female,IT,5,38,5371,2,1,Yes,1,4,Yes
+642,37,Female,IT,4,27,4515,4,5,No,4,1,No
+643,41,Female,IT,2,16,18906,3,7,No,2,2,No
+644,34,Female,Marketing,5,5,9326,3,0,Yes,2,2,Yes
+645,29,Female,Finance,2,18,17605,2,5,No,2,4,Yes
+646,21,Male,IT,4,37,8586,3,1,Yes,3,3,No
+647,33,Male,HR,3,27,5917,5,1,No,3,4,No
+648,24,Female,HR,2,1,18901,4,6,No,4,3,No
+649,21,Female,IT,1,37,6793,3,9,Yes,1,4,No
+650,52,Female,Customer Support,1,36,12947,1,0,No,2,2,No
+651,54,Female,IT,5,3,18859,3,5,No,1,4,No
+652,48,Male,HR,4,21,4577,4,6,Yes,3,4,No
+653,51,Female,Marketing,5,25,12488,4,7,No,3,3,Yes
+654,28,Male,Sales,5,35,12164,3,6,Yes,3,2,No
+655,59,Female,Sales,5,12,4030,2,5,Yes,1,3,No
+656,46,Male,IT,1,31,18881,3,8,Yes,4,4,No
+657,54,Male,Engineering,1,16,13785,3,2,No,4,1,No
+658,23,Male,IT,5,35,9691,4,5,Yes,3,4,No
+659,32,Male,Customer Support,1,18,9358,3,3,No,2,4,Yes
+660,21,Female,IT,4,34,4462,3,1,No,1,3,Yes
+661,25,Male,Sales,5,39,18511,3,0,No,3,1,No
+662,50,Male,HR,1,27,13570,2,0,No,1,1,No
+663,50,Male,IT,2,0,18897,5,9,No,1,3,No
+664,37,Male,HR,5,17,14646,3,2,No,4,2,No
+665,43,Male,HR,5,39,18474,3,3,No,3,1,Yes
+666,35,Male,Engineering,4,32,10037,3,1,Yes,4,1,No
+667,57,Female,HR,3,11,12499,3,0,No,3,3,No
+668,41,Female,Sales,3,7,16386,3,3,Yes,1,2,No
+669,34,Female,Marketing,4,23,9221,4,6,No,4,2,No
+670,22,Male,Marketing,4,15,10769,3,9,No,1,4,Yes
+671,31,Male,Finance,4,3,17356,3,5,Yes,3,4,No
+672,59,Female,Customer Support,3,37,10389,2,5,Yes,2,3,No
+673,58,Female,IT,4,26,7922,3,8,No,4,2,Yes
+674,54,Male,Customer Support,1,8,16639,1,1,No,4,3,No
+675,58,Male,Sales,5,15,13003,3,3,No,1,4,No
+676,54,Male,HR,5,11,8178,4,4,No,1,3,No
+677,38,Male,Marketing,2,30,18240,4,0,Yes,2,3,No
+678,50,Male,Customer Support,2,23,6968,3,7,Yes,4,1,Yes
+679,35,Female,Sales,5,13,5716,3,7,No,3,1,No
+680,47,Female,Marketing,1,24,19574,2,5,No,3,1,No
+681,54,Female,HR,3,33,16511,3,4,No,4,4,No
+682,58,Female,Customer Support,3,2,11181,4,7,Yes,4,3,No
+683,53,Female,Marketing,1,23,15995,3,2,No,4,1,Yes
+684,44,Female,IT,3,8,14298,3,2,No,2,1,No
+685,35,Female,IT,4,25,19762,4,1,No,3,1,Yes
+686,50,Male,Finance,5,19,9380,4,4,No,3,4,Yes
+687,37,Male,Finance,5,39,3615,3,2,No,1,4,No
+688,25,Male,Marketing,1,9,3463,3,2,No,1,3,Yes
+689,49,Female,Sales,3,18,12158,2,5,Yes,4,3,No
+690,24,Female,IT,2,2,6158,2,7,Yes,1,3,Yes
+691,30,Male,Sales,2,23,16434,4,1,No,2,1,No
+692,37,Female,Sales,3,4,7938,4,3,No,3,2,Yes
+693,30,Male,Marketing,2,2,8417,4,6,No,3,4,Yes
+694,37,Female,Sales,1,26,11881,1,0,No,1,1,No
+695,40,Male,IT,1,15,8603,4,0,No,4,1,No
+696,44,Male,HR,3,14,5212,3,9,No,1,3,No
+697,25,Female,Finance,2,34,19766,3,6,Yes,4,3,No
+698,54,Male,HR,1,11,14695,3,6,Yes,2,1,Yes
+699,26,Male,Sales,1,25,12775,2,0,Yes,3,4,No
+700,22,Male,HR,4,33,17559,4,0,No,2,4,Yes
+701,33,Female,IT,4,22,9146,3,3,No,3,1,No
+702,31,Female,IT,1,30,3371,2,4,Yes,2,2,No
+703,43,Male,Sales,3,19,8565,2,4,No,1,2,No
+704,36,Female,Marketing,5,11,11802,2,3,Yes,2,4,No
+705,51,Female,HR,5,22,11307,2,7,No,2,3,Yes
+706,31,Male,Marketing,1,3,10437,3,6,No,1,2,No
+707,36,Male,Marketing,1,22,3446,4,8,No,3,2,No
+708,28,Male,Engineering,1,0,4391,1,6,Yes,3,3,No
+709,24,Male,Sales,3,24,14516,1,9,No,1,2,Yes
+710,24,Female,Finance,4,1,18454,3,0,No,2,1,No
+711,45,Male,IT,1,29,14891,4,6,Yes,2,2,No
+712,23,Female,IT,1,2,17998,3,0,Yes,2,3,No
+713,52,Female,Sales,2,20,8969,3,6,No,4,1,No
+714,23,Male,Customer Support,3,24,12265,3,9,No,3,2,No
+715,47,Female,Customer Support,1,19,18861,3,7,No,2,4,No
+716,49,Male,Customer Support,2,21,8454,1,8,No,3,1,No
+717,52,Other,Finance,5,20,6150,4,2,No,2,1,No
+718,39,Female,IT,1,32,18386,3,3,Yes,1,4,No
+719,41,Female,Sales,1,37,9414,3,3,Yes,1,4,Yes
+720,25,Female,IT,2,14,7657,4,8,No,3,2,No
+721,38,Male,Marketing,3,14,13486,3,6,No,3,2,No
+722,48,Female,HR,1,24,17894,3,2,No,1,3,No
+723,42,Female,HR,5,20,8480,3,9,No,4,3,Yes
+724,41,Female,IT,1,23,11033,2,4,No,1,1,No
+725,26,Female,Engineering,5,4,3983,2,6,No,2,4,Yes
+726,21,Female,Finance,4,5,11543,3,7,No,4,4,No
+727,25,Male,Customer Support,4,22,12916,4,0,No,1,3,No
+728,32,Male,Finance,5,3,13143,5,1,Yes,4,1,Yes
+729,46,Female,Finance,3,26,18581,3,6,No,4,1,No
+730,54,Male,Marketing,1,17,4907,2,1,Yes,4,3,No
+731,34,Female,Finance,1,20,12216,2,6,No,3,3,No
+732,46,Female,HR,4,27,11737,4,8,No,1,3,No
+733,47,Male,Marketing,5,34,16757,3,1,No,3,2,No
+734,29,Male,Sales,1,21,7174,3,6,No,3,1,No
+735,46,Female,Finance,1,39,18708,4,3,Yes,2,1,Yes
+736,42,Male,Finance,3,22,12297,4,1,Yes,2,1,No
+737,50,Female,Sales,2,2,4990,4,6,No,4,3,No
+738,37,Male,Finance,4,39,8596,2,4,No,4,3,No
+739,46,Female,Sales,4,9,19374,4,0,No,2,3,No
+740,56,Male,Marketing,2,24,6775,4,4,No,2,3,Yes
+741,21,Female,HR,1,7,18706,3,2,No,1,4,No
+742,28,Male,Sales,3,10,17645,3,6,No,4,3,No
+743,55,Female,Engineering,3,4,16668,3,5,Yes,4,2,No
+744,35,Male,Sales,4,36,18960,5,7,No,2,4,No
+745,42,Female,Finance,3,37,14357,1,4,No,1,4,No
+746,34,Female,Customer Support,2,28,7435,3,1,No,2,3,No
+747,46,Male,Customer Support,1,4,18804,2,8,No,2,1,No
+748,48,Male,Marketing,2,8,17626,4,7,No,3,3,No
+749,43,Male,IT,5,1,10951,2,5,No,4,1,No
+750,34,Female,Marketing,4,0,9449,3,9,Yes,1,3,No
+751,44,Female,IT,3,39,6199,3,6,No,3,3,No
+752,22,Female,Customer Support,5,29,9768,4,8,No,4,1,Yes
+753,46,Male,Customer Support,3,10,12130,3,6,Yes,2,1,No
+754,34,Male,Sales,1,27,11633,2,2,No,1,1,No
+755,27,Female,HR,1,11,7225,4,5,No,4,1,No
+756,23,Female,Engineering,1,38,19980,3,6,No,2,2,No
+757,43,Other,Marketing,3,25,9054,4,1,Yes,3,1,No
+758,38,Male,Finance,5,12,4505,2,2,No,1,3,Yes
+759,58,Female,IT,1,7,12053,3,3,Yes,4,3,No
+760,55,Male,Finance,5,27,18749,3,9,Yes,3,2,No
+761,35,Male,HR,3,29,13832,2,5,Yes,2,1,No
+762,45,Female,IT,5,8,19344,3,0,No,2,3,No
+763,57,Female,Marketing,3,38,17783,3,8,Yes,4,2,Yes
+764,48,Other,Sales,3,30,4551,4,4,No,2,3,No
+765,30,Male,Finance,4,20,18154,3,6,Yes,1,2,Yes
+766,59,Male,HR,3,33,16799,3,8,No,4,2,Yes
+767,37,Female,Marketing,3,30,9852,3,8,No,3,4,Yes
+768,59,Female,Customer Support,2,24,4449,5,0,No,4,4,No
+769,42,Male,Customer Support,1,11,5659,3,0,No,4,1,No
+770,46,Male,Marketing,4,0,10509,3,2,No,3,4,No
+771,45,Male,Marketing,4,21,5721,3,5,No,2,2,No
+772,37,Female,Marketing,4,39,15444,3,1,No,3,3,No
+773,33,Male,IT,2,36,12637,3,9,Yes,1,3,No
+774,40,Male,Marketing,3,0,13490,4,0,Yes,2,1,No
+775,45,Male,Finance,1,0,5925,3,0,Yes,4,4,No
+776,24,Male,HR,5,20,12824,4,4,No,2,1,No
+777,30,Male,IT,3,14,9240,2,3,No,2,2,No
+778,23,Female,Marketing,2,16,19896,3,0,No,1,4,Yes
+779,38,Male,Engineering,3,21,3215,4,3,No,2,1,No
+780,56,Female,Engineering,3,37,10299,2,2,No,2,3,No
+781,42,Male,HR,2,34,14523,5,1,No,2,3,Yes
+782,54,Female,Customer Support,4,15,13364,3,8,No,4,1,No
+783,28,Female,Sales,4,7,6153,4,0,Yes,2,1,No
+784,39,Female,Sales,1,16,4706,3,6,No,3,1,No
+785,57,Female,Customer Support,1,16,13298,3,3,Yes,2,2,No
+786,26,Male,IT,4,25,4567,2,4,No,1,2,No
+787,46,Male,IT,5,12,13400,3,9,Yes,2,3,Yes
+788,54,Female,IT,3,16,13345,2,4,No,2,2,Yes
+789,26,Other,Sales,5,37,4128,2,0,No,4,2,No
+790,57,Female,Engineering,3,16,10867,2,5,Yes,3,4,Yes
+791,53,Female,Sales,4,13,8583,3,8,Yes,2,2,No
+792,42,Female,Finance,1,5,7897,4,1,No,3,4,Yes
+793,41,Male,Marketing,1,34,9001,2,6,No,1,2,No
+794,26,Male,IT,5,13,14113,2,5,No,4,3,No
+795,26,Female,Engineering,1,7,7567,3,4,No,3,1,No
+796,24,Female,HR,4,14,12271,2,3,No,4,3,No
+797,50,Male,HR,5,26,17348,2,3,No,2,2,No
+798,31,Female,Marketing,3,12,14703,2,5,No,1,1,No
+799,50,Male,Engineering,1,30,16329,4,3,No,4,1,No
+800,51,Female,Sales,2,34,5741,4,4,No,2,1,No
+801,44,Male,Sales,1,5,9256,3,5,No,3,4,No
+802,29,Male,Finance,3,4,3228,3,4,No,1,3,No
+803,23,Female,Finance,5,21,19678,3,6,No,1,4,No
+804,51,Male,Sales,3,22,7284,3,8,No,3,1,No
+805,57,Female,HR,2,24,16264,3,9,No,3,3,No
+806,56,Female,IT,4,33,16390,3,6,No,1,3,No
+807,44,Female,HR,1,25,3918,3,6,Yes,4,2,No
+808,51,Male,Finance,5,4,14445,1,3,No,1,4,No
+809,26,Male,Marketing,4,25,3498,3,0,No,3,4,No
+810,22,Male,Sales,3,19,5809,4,7,Yes,4,2,No
+811,40,Other,Finance,5,5,7961,3,3,No,2,4,No
+812,48,Female,Finance,4,5,12017,4,0,No,1,1,No
+813,31,Female,IT,5,17,6779,5,4,Yes,3,1,No
+814,24,Female,Sales,2,3,13050,2,7,No,2,4,No
+815,35,Female,IT,2,16,5118,3,3,No,1,2,Yes
+816,26,Female,Sales,1,13,9391,3,7,Yes,1,3,No
+817,50,Male,IT,1,13,3145,5,7,Yes,4,4,No
+818,58,Female,HR,2,12,16929,5,2,No,3,3,No
+819,22,Male,Marketing,5,6,17917,3,8,No,2,2,Yes
+820,35,Female,Marketing,2,14,7565,3,2,Yes,1,3,Yes
+821,31,Female,Sales,1,18,19576,4,0,No,4,2,No
+822,28,Female,Engineering,2,34,9637,2,1,No,2,2,No
+823,46,Male,Customer Support,2,16,11243,4,5,No,2,1,No
+824,25,Male,Finance,5,34,5410,4,9,No,1,1,No
+825,26,Male,Finance,4,18,4820,3,1,No,2,2,Yes
+826,46,Male,Sales,1,19,5521,3,5,No,1,4,No
+827,24,Male,IT,5,35,8882,3,0,Yes,4,1,No
+828,39,Female,Engineering,2,34,4867,3,0,No,4,2,No
+829,40,Female,HR,2,31,10465,3,4,No,2,3,No
+830,53,Male,IT,4,39,14461,4,9,Yes,1,3,Yes
+831,40,Male,IT,1,23,9103,4,8,No,3,4,No
+832,32,Male,Sales,1,16,15197,4,7,No,4,3,No
+833,21,Female,Sales,3,6,18424,2,2,No,1,3,No
+834,46,Female,Finance,1,0,19053,4,2,No,1,2,No
+835,34,Female,Sales,4,34,3240,4,0,Yes,1,3,No
+836,58,Female,Sales,3,31,7631,3,2,No,2,3,No
+837,57,Other,Sales,3,35,12599,2,0,No,3,3,No
+838,31,Female,Finance,2,12,14694,3,7,Yes,2,3,No
+839,56,Male,HR,2,5,8077,4,0,No,4,2,No
+840,33,Female,HR,1,13,6768,3,4,No,2,3,No
+841,23,Male,Customer Support,3,36,12142,4,8,Yes,1,4,No
+842,53,Female,Customer Support,2,14,10995,3,6,No,2,1,No
+843,26,Male,Sales,4,3,16276,4,3,No,1,4,No
+844,30,Female,Customer Support,2,39,15746,1,8,Yes,3,1,No
+845,25,Female,Finance,2,15,14475,3,8,No,2,4,No
+846,43,Female,HR,3,27,9568,3,1,No,2,1,Yes
+847,30,Female,IT,3,15,5601,2,9,No,2,1,No
+848,22,Male,HR,5,3,9080,4,9,Yes,1,1,No
+849,33,Male,HR,4,25,16854,3,5,No,1,1,No
+850,22,Male,Finance,3,27,5159,3,3,Yes,2,2,No
+851,40,Male,Customer Support,1,31,11313,3,7,No,2,4,No
+852,21,Female,IT,4,1,7368,3,6,No,3,1,No
+853,57,Male,Finance,4,30,4317,2,6,No,3,4,No
+854,29,Other,Sales,3,2,16272,1,9,Yes,4,3,No
+855,37,Female,Marketing,4,7,4230,4,8,No,3,1,No
+856,29,Female,HR,3,23,4301,3,4,Yes,3,4,No
+857,31,Male,Marketing,2,14,18927,4,5,No,3,2,No
+858,35,Female,Finance,5,30,4910,5,0,No,1,4,No
+859,44,Female,Finance,2,8,17904,3,5,No,3,1,No
+860,58,Female,Finance,3,38,11107,3,1,No,3,3,No
+861,55,Female,Marketing,3,1,5757,3,5,No,2,4,No
+862,50,Female,Finance,2,7,9464,5,8,No,1,3,No
+863,51,Male,Sales,1,6,19562,4,7,No,4,2,Yes
+864,25,Female,Finance,1,38,12088,3,8,No,4,4,No
+865,34,Male,Engineering,1,15,18124,4,9,No,3,4,No
+866,31,Male,Customer Support,3,34,17260,2,7,No,4,2,Yes
+867,29,Male,Marketing,4,29,12743,5,2,Yes,4,2,No
+868,54,Male,Engineering,3,9,11683,5,7,No,4,2,No
+869,32,Male,Finance,4,37,3060,2,5,No,3,1,No
+870,55,Male,Sales,2,17,12269,3,5,No,4,1,No
+871,55,Other,HR,5,4,5895,2,5,No,3,4,No
+872,21,Female,IT,4,28,18323,3,2,Yes,2,4,No
+873,42,Other,Customer Support,1,38,15352,4,9,No,2,4,No
+874,49,Male,IT,3,33,14875,3,0,No,4,3,No
+875,28,Male,Finance,2,22,19969,2,3,No,2,2,No
+876,31,Female,Customer Support,1,4,8823,3,9,No,3,4,No
+877,57,Male,Customer Support,2,29,14962,5,5,No,2,2,Yes
+878,34,Male,Sales,5,5,3534,3,9,Yes,4,1,Yes
+879,50,Female,Customer Support,3,3,7011,3,1,No,3,2,No
+880,55,Male,Marketing,3,28,5155,2,6,No,1,3,No
+881,41,Female,Engineering,5,22,9957,5,6,Yes,3,3,No
+882,57,Female,Engineering,3,5,12196,4,3,No,2,2,No
+883,25,Male,Engineering,4,31,13691,3,3,No,1,3,No
+884,39,Male,Marketing,2,17,16327,2,0,No,3,3,No
+885,34,Female,IT,1,14,5706,2,1,No,1,1,No
+886,46,Male,Sales,5,39,3001,2,8,No,1,4,No
+887,24,Male,Customer Support,4,31,12225,3,9,No,1,3,Yes
+888,45,Other,Marketing,1,8,17820,4,7,No,3,4,No
+889,45,Male,Engineering,1,36,13891,3,7,No,2,2,No
+890,38,Female,Finance,5,9,4861,4,8,No,3,2,No
+891,28,Other,HR,4,19,8269,3,6,Yes,2,3,No
+892,59,Male,Customer Support,1,5,14112,4,8,No,3,2,No
+893,34,Male,Marketing,1,2,18699,4,9,No,3,1,No
+894,52,Male,Marketing,4,10,11320,2,1,No,3,3,No
+895,58,Male,Sales,3,16,19821,3,5,Yes,2,3,No
+896,53,Male,Sales,1,31,13740,3,2,No,3,3,No
+897,43,Female,Marketing,2,3,6129,2,5,Yes,1,2,No
+898,35,Male,Engineering,4,3,17380,3,2,No,3,2,No
+899,53,Female,HR,1,16,14360,3,7,No,1,3,No
+900,45,Other,Customer Support,5,18,8398,5,3,Yes,4,4,No
+901,37,Female,Sales,2,4,8529,3,9,No,4,2,No
+902,53,Female,Customer Support,1,31,6918,4,5,Yes,2,2,No
+903,22,Male,Engineering,2,21,19410,3,8,No,2,3,No
+904,34,Female,Customer Support,2,5,9937,4,1,No,4,4,No
+905,59,Female,Finance,3,34,10118,3,1,No,3,3,No
+906,26,Male,Sales,2,21,19931,4,6,No,3,2,No
+907,26,Male,Engineering,3,0,13860,3,1,Yes,3,3,No
+908,23,Female,Engineering,4,19,8338,3,1,No,4,3,No
+909,27,Male,HR,3,21,15472,3,3,Yes,1,3,No
+910,28,Male,HR,5,10,6140,3,8,No,2,4,No
+911,35,Male,Finance,1,12,10996,2,7,Yes,1,3,No
+912,49,Male,Engineering,4,2,18489,2,1,No,4,2,No
+913,53,Female,IT,4,8,17201,1,7,No,1,3,No
+914,50,Female,Engineering,5,11,10776,4,3,No,3,4,No
+915,59,Female,HR,3,22,7943,3,1,No,3,1,No
+916,47,Male,IT,1,13,15886,3,9,No,1,4,No
+917,56,Male,Sales,3,32,11997,4,6,Yes,4,3,No
+918,49,Female,Sales,2,17,10798,3,5,Yes,1,1,No
+919,58,Male,Customer Support,3,8,11092,3,9,No,3,3,No
+920,53,Male,Marketing,4,22,6225,2,4,No,3,4,No
+921,57,Female,HR,1,9,14810,5,0,No,4,1,No
+922,47,Male,Marketing,3,18,17914,4,1,Yes,1,1,No
+923,53,Female,IT,1,4,5460,4,7,No,3,3,Yes
+924,24,Male,HR,1,22,11737,3,0,Yes,3,3,No
+925,42,Male,Finance,2,29,16920,4,2,No,1,4,No
+926,22,Male,Engineering,2,24,13754,2,1,No,1,3,No
+927,30,Other,Finance,4,27,13833,1,4,Yes,2,1,No
+928,25,Female,IT,5,33,6114,1,3,No,4,2,No
+929,30,Female,HR,1,24,18360,3,6,No,4,2,No
+930,53,Female,IT,5,9,12951,3,4,No,1,4,No
+931,58,Male,Engineering,4,13,5565,3,7,Yes,4,3,No
+932,33,Female,Sales,1,29,6174,1,3,No,3,4,No
+933,51,Male,Sales,1,24,5630,3,5,No,1,2,No
+934,56,Female,IT,5,13,6161,4,3,No,1,2,No
+935,44,Male,Marketing,3,34,7321,3,1,No,1,3,No
+936,35,Female,HR,2,33,16204,4,0,Yes,2,1,No
+937,49,Male,HR,3,9,10099,3,0,Yes,4,3,No
+938,28,Male,Sales,5,34,14360,4,7,No,2,2,No
+939,25,Female,Customer Support,2,10,13313,3,3,Yes,3,1,No
+940,49,Male,Finance,3,10,16502,3,4,No,4,4,No
+941,24,Male,Customer Support,2,20,8801,3,7,No,2,2,No
+942,32,Male,Engineering,1,20,17130,3,6,No,1,4,No
+943,22,Male,Finance,3,21,17271,4,7,Yes,2,1,No
+944,47,Female,Finance,2,6,19075,3,7,No,1,4,No
+945,51,Female,IT,2,16,7151,3,5,No,2,2,Yes
+946,56,Female,Sales,2,1,11911,4,9,Yes,2,3,Yes
+947,56,Female,Customer Support,3,11,15861,3,1,No,2,4,No
+948,46,Male,Customer Support,4,17,3666,3,5,No,1,2,No
+949,47,Female,Sales,3,10,19667,3,0,No,2,2,No
+950,25,Male,Customer Support,5,15,8840,3,0,No,4,1,No
+951,40,Male,Sales,3,17,6565,3,2,Yes,4,2,No
+952,31,Female,IT,2,34,13426,3,2,No,4,3,No
+953,30,Male,Marketing,1,25,10366,5,4,No,1,3,No
+954,58,Female,Finance,3,15,18630,3,0,No,1,4,No
+955,26,Male,IT,3,5,10382,3,9,No,4,4,No
+956,28,Female,HR,2,11,19149,3,5,No,4,4,Yes
+957,43,Female,Engineering,1,12,18871,4,6,No,4,4,No
+958,46,Female,Marketing,1,3,16273,4,9,Yes,3,3,No
+959,32,Female,HR,5,38,3992,3,2,Yes,4,1,No
+960,46,Female,Finance,3,1,9858,4,3,No,2,4,No
+961,33,Male,Customer Support,1,25,5121,3,9,Yes,3,1,No
+962,38,Female,Sales,1,26,15388,3,9,No,3,2,Yes
+963,45,Male,Finance,4,26,7136,2,9,No,1,2,No
+964,53,Female,IT,4,14,19727,3,9,No,2,4,Yes
+965,32,Female,Engineering,1,7,15653,3,9,No,1,2,No
+966,56,Female,IT,5,6,18479,4,2,Yes,1,1,No
+967,24,Male,Marketing,1,39,7823,3,0,Yes,2,1,No
+968,25,Male,Marketing,2,11,7920,5,7,No,1,2,No
+969,57,Female,Engineering,3,12,8471,3,9,No,2,4,Yes
+970,28,Male,HR,5,16,12533,3,9,No,2,1,No
+971,48,Male,HR,2,16,10127,3,1,No,1,1,Yes
+972,51,Male,Marketing,5,35,6720,2,0,Yes,4,3,No
+973,29,Female,Marketing,2,20,18696,3,7,No,1,4,No
+974,49,Female,Customer Support,3,7,4364,2,6,No,3,3,No
+975,34,Male,Sales,3,4,5708,3,6,Yes,1,2,No
+976,42,Male,Customer Support,4,25,15982,3,3,No,2,2,No
+977,31,Male,Customer Support,2,15,3151,4,8,No,3,3,No
+978,43,Female,HR,4,35,5321,3,5,No,2,4,Yes
+979,21,Female,Engineering,2,27,16865,2,1,Yes,4,1,No
+980,57,Male,HR,4,28,3495,3,0,No,4,2,No
+981,41,Male,Sales,3,11,14987,4,0,Yes,3,4,No
+982,46,Male,IT,5,36,5148,4,8,Yes,4,4,No
+983,56,Female,Marketing,4,29,3556,3,3,No,4,2,No
+984,43,Female,Marketing,2,22,16393,3,4,No,1,2,No
+985,21,Male,Sales,2,15,4552,2,2,No,1,4,No
+986,35,Male,Customer Support,3,13,6085,5,3,No,4,1,No
+987,41,Male,Engineering,2,9,3156,3,7,Yes,4,3,No
+988,29,Other,Marketing,1,6,11926,3,3,No,1,2,No
+989,29,Male,Finance,5,36,10162,3,8,Yes,4,3,No
+990,30,Female,Customer Support,4,28,11055,2,8,Yes,4,4,Yes
+991,46,Female,Marketing,5,2,7654,5,5,No,2,3,No
+992,55,Male,Finance,3,14,14468,2,1,No,4,1,No
+993,45,Male,Sales,4,35,3154,3,9,Yes,3,4,No
+994,46,Male,Sales,4,18,10950,3,6,No,2,1,Yes
+995,31,Female,Customer Support,1,12,18323,4,8,Yes,3,4,No
+996,58,Female,Marketing,3,20,7626,4,5,Yes,4,1,Yes
+997,22,Female,HR,2,36,17259,3,2,No,1,4,No
+998,27,Female,Finance,1,26,17873,3,6,Yes,2,1,Yes
+999,38,Male,Engineering,1,28,16016,4,4,No,1,4,No
+1000,47,Other,Marketing,5,19,12369,2,0,Yes,2,1,No
