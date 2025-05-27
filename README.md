@@ -1,6 +1,6 @@
 # HR-Analytics-to-Track-Employee-Performance
 
-#Summary
+# Summary
 | Step                | Status | Remarks                                                     |
 | ------------------- | ------ | ----------------------------------------------------------- |
 | Dataset Identified  | ✅      | Provided employee dataset (1000 records)                    |
