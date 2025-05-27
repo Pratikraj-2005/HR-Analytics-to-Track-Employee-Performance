@@ -54,9 +54,13 @@ This project applies data analytics techniques to assess and improve employee pe
 
 ### 🔹 Correlation Heatmap
 `seaborn.heatmap()` used to analyze numeric relationships.
+![correlation_heatmap](https://github.com/user-attachments/assets/4352bdd2-2a62-447e-8882-a268be27171b)
+
 
 ### 🔹 Monthly Income Boxplot
 Identified outliers and skewness in salary distribution.
+![boxplot_monthly_income](https://github.com/user-attachments/assets/9dc62d59-b8d5-4a4e-8be2-51d2f0c50861)
+
 
 ### 🔹 Job Role vs. Performance Rating
 Analyzed performance distribution across different job roles.
