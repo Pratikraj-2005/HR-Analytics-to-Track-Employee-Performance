@@ -156,8 +156,62 @@ Strong storytelling creates a compelling case for action and reflects a strategi
 
 
 **Overall Verdict**:
+Great choice! 🎯 You're now moving into **Review 3: Predictive Modeling** — the most exciting and impactful part of your HR Analytics project.
+
+---
+
+## 🔍 Predictive Modeling**
+
+We’ll structure this phase professionally in steps:
+
+---
+
+### ✅ **Step-by-Step Plan**
+
+#### **1. Define the Problem Statement**
+
+* Goal: Predict **employee performance rating** or **attrition**.
+* Choose one target:
+
+  * `PerformanceRating` (Regression)
+  * `Attrition` (Classification)
+
+#### **2. Data Preparation for Modeling**
+
+* Encode categorical variables
+* Normalize/scale numerical variables
+* Split into training/testing sets
+
+#### **3. Model Building**
+
+* Use suitable models:
+
+  * For Classification (`Attrition`): Logistic Regression, Random Forest, XGBoost
+  * For Regression (`PerformanceRating`): Linear Regression, Random Forest Regressor, XGBoost Regressor
+
+#### **4. Model Evaluation**
+
+* Classification: Accuracy, Precision, Recall, F1, ROC-AUC
+* Regression: MAE, MSE, R²
+
+#### **5. Feature Importance**
+
+* Identify which features drive predictions
+
+#### **6. Final Model & Visualization**
+
+* Plot performance metrics
+* Visualize feature importances
+* 
+#### 🔢 Predict PerformanceRating (regression model)
+![performance_feature_importance](https://github.com/user-attachments/assets/ce51b441-744b-44d8-b5e3-05c491342601)
+
+#### ⚠️ Predict Attrition (classification model)
+![roc_curve_attrition](https://github.com/user-attachments/assets/58c9e231-4ffe-452a-b5ab-ada5fd41c04b)
+
 This phase of the HR Analytics project is executed with a high level of professional quality. Visualization choices are aligned with the data context, storytelling is strategic, and design decisions enhance stakeholder communication.
 
 ---
 
+![istockphoto-1417959400-612x612](https://github.com/user-attachments/assets/02629cf3-4af8-48b2-8470-acbfc57049f7)
 
