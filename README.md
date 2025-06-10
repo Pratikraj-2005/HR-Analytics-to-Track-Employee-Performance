@@ -88,6 +88,9 @@ Analyzed performance distribution across different job roles.
   * **Line Charts** for trends (e.g., monthly turnover, training hours vs. performance over time).
   * **Heatmaps** to visualize correlations among numerical features (e.g., between performance rating, overtime, and satisfaction).
   * **Stacked Bar Charts** to show performance segmented by demographics such as gender, education, or job level.
+![performance_by_department](https://github.com/user-attachments/assets/de515811-5ddb-44e9-85f4-8dd3a9f52d61)
+![job_satisfaction_boxplot](https://github.com/user-attachments/assets/719a9093-76e3-4b3a-9898-fe8951a93853)
+![tenure_vs_performance](https://github.com/user-attachments/assets/75dec52f-566b-48d7-ab26-aa9cb68ac91c)
 
 **Evaluation**:
 These selections are highly suitable for HR analytics. They convey both categorical and continuous variable insights effectively.
