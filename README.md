@@ -162,7 +162,7 @@ Great choice! 🎯 You're now moving into **Review 3: Predictive Modeling** — 
 
 ---
 
-## 🔍 Predictive Modeling**
+## 🔍 **Predictive Modeling**
 
 We’ll structure this phase professionally in steps:
 
@@ -205,10 +205,10 @@ We’ll structure this phase professionally in steps:
 * Plot performance metrics
 * Visualize feature importances
 * 
-### 🔢 Predict PerformanceRating (regression model)
+### 🔢 **Predict PerformanceRating (regression model)**
 ![performance_feature_importance](https://github.com/user-attachments/assets/ce51b441-744b-44d8-b5e3-05c491342601)
 
-### ⚠️ Predict Attrition (classification model)
+### ⚠️ **Predict Attrition (classification model)**
 ![roc_curve_attrition](https://github.com/user-attachments/assets/58c9e231-4ffe-452a-b5ab-ada5fd41c04b)
 
 This phase of the HR Analytics project is executed with a high level of professional quality. Visualization choices are aligned with the data context, storytelling is strategic, and design decisions enhance stakeholder communication.
