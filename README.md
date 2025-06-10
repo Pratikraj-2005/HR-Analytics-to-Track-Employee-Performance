@@ -140,7 +140,7 @@ Strong storytelling creates a compelling case for action and reflects a strategi
 
 ---
 
-## 🔍 **Sample Insights Drawn from Visuals (based on uploaded data)**
+## 🔍 **Sample Insights Drawn from Visuals**
 
 | Insight                                                               | Chart Type            | Business Relevance                                             |
 | --------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------- |
